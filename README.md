@@ -9,7 +9,7 @@
 
 <h1 align="center">LAUNCH X</h1>
 
-Me faltaron dos katas la 2 y la 10 :c, pero hize lo que pude :3, y de verdad disfrute mucho aprender python es un lenguaje complejo pero a la vez facil.
+ENTREGA DE LAS KATAS.
 
 Saludos sherpa :3
 
